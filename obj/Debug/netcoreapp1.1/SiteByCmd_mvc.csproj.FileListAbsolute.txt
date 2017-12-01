@@ -1,0 +1,8 @@
+c:\Projects\tutorials\CsharpPlayground\112917\SiteByCmd_mvc\bin\Debug\netcoreapp1.1\SiteByCmd_mvc.deps.json
+c:\Projects\tutorials\CsharpPlayground\112917\SiteByCmd_mvc\bin\Debug\netcoreapp1.1\SiteByCmd_mvc.runtimeconfig.json
+c:\Projects\tutorials\CsharpPlayground\112917\SiteByCmd_mvc\bin\Debug\netcoreapp1.1\SiteByCmd_mvc.runtimeconfig.dev.json
+c:\Projects\tutorials\CsharpPlayground\112917\SiteByCmd_mvc\bin\Debug\netcoreapp1.1\SiteByCmd_mvc.dll
+c:\Projects\tutorials\CsharpPlayground\112917\SiteByCmd_mvc\bin\Debug\netcoreapp1.1\SiteByCmd_mvc.pdb
+c:\Projects\tutorials\CsharpPlayground\112917\SiteByCmd_mvc\obj\Debug\netcoreapp1.1\SiteByCmd_mvc.AssemblyInfo.cs
+c:\Projects\tutorials\CsharpPlayground\112917\SiteByCmd_mvc\obj\Debug\netcoreapp1.1\SiteByCmd_mvc.dll
+c:\Projects\tutorials\CsharpPlayground\112917\SiteByCmd_mvc\obj\Debug\netcoreapp1.1\SiteByCmd_mvc.pdb
